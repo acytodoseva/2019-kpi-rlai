@@ -9,3 +9,4 @@ scikit-learn==0.20.3
 ipykernel==5.1.0
 jupyter==1.0.0
 pydotplus==2.0.2
+tensorflow==1.13.1
